@@ -1,0 +1,2 @@
+assignment_2:tutorial
+-DCATKIN_DEVEL_PREFIX=/home/ameyasalvi/AuE893_AmeyaSalvi_SP21/AuE893_Catkin_WS/devel -DCMAKE_INSTALL_PREFIX=/home/ameyasalvi/AuE893_AmeyaSalvi_SP21/AuE893_Catkin_WS/install -G Unix Makefiles
