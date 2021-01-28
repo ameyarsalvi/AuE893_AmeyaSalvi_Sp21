@@ -1,4 +1,6 @@
-#Assignment 2 : Navigation
+# Assignment 2 : Navigation
+
+![Assignment 2](https://github.com/ameyarsalvi/AuE893_AmeyaSalvi_SP21/blob/main/AuE893_Catkin_WS/src/assignment_2/Asmt2.png)
 
 
 
